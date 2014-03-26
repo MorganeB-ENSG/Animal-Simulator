@@ -19,3 +19,5 @@ How to start:
         + simulateOneStep - for a single step.
         + simulate - and supply a number (say 10) for that many steps.
         + runLongSimulation - for a simulation of 500 steps.
+		
+This does not currently run outside an environment such as BlueJ, since a scanner has not been implemented.
