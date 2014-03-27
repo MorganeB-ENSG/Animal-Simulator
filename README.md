@@ -10,7 +10,7 @@ The shots travel a distance given in the SHOT_RANGE (20 in my case) that is how 
 How to start:
     Launch compiled jar file with: java -jar (name of file)
 	
-Commands:
+Commands (not case-sensitive):
 
 	simulateOneStep ---> This runs one step of the simulation.
 	

@@ -19,12 +19,13 @@ public class Main {
 		
 		Scanner reader = new Scanner(System.in);
 		boolean finished = false;
-		String word1 = null;
-		int numSteps = 0;
 		
 		while(!finished) {
 			System.out.print("> ");
 			Scanner tokenizer = new Scanner(reader.nextLine());
+
+			String word1 = null;
+			int numSteps = 0;
 			
 			if(tokenizer.hasNext()) {
 				word1 = tokenizer.next().toLowerCase();
