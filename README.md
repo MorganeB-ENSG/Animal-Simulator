@@ -9,6 +9,7 @@ The shots travel a distance given in the SHOT_RANGE (20 in my case) that is how 
 
 How to start:<br>
 	Launch compiled jar file with: <br>
+	
 	java -jar (name of file)
 	
 For Linux distributions:
