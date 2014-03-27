@@ -12,7 +12,11 @@ How to start:
 	
 Commands:
 	simulateOneStep ---> This runs one step of the simulation.
+	
 	simulate x (where x is a positive integer) ---> This runs the simulation for x steps.
+	
 	runLongSim ---> This runs a simulation of 500 steps.
+	
 	reset ---> This resets the simulation to step 0.
+	
 	quit ---> This quits the program.
