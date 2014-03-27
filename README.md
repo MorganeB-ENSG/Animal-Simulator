@@ -11,6 +11,7 @@ How to start:
     Launch compiled jar file with: java -jar (name of file)
 	
 Commands:
+
 	simulateOneStep ---> This runs one step of the simulation.
 	
 	simulate x (where x is a positive integer) ---> This runs the simulation for x steps.
