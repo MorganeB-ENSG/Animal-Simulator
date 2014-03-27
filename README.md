@@ -7,9 +7,17 @@ complex. A hunter shoots a certain number of times (6 in my case) before it has 
 When the hunter shoots it can move afterwards. But if the hunter is reloading, it cannot shoot and cannot move.
 The shots travel a distance given in the SHOT_RANGE (20 in my case) that is how many locations to travel past when shot. Any deer found in these locations will be killed.
 
-How to start:
-    Launch compiled jar file with: java -jar (name of file)
+How to start:<br>
+	Launch compiled jar file with: <br>
 	
+	java -jar (name of file)
+	
+For Linux distributions:
+
+	javac Main.java
+	java Main
+
+
 Commands:
 
 	simulateOneStep ---> This runs one step of the simulation.
